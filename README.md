@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Fashion Paris E-commerce
 
 Ce projet est une application web e-commerce complète pour une boutique de mode fictive appelée "Fashion Paris". Il comprend un front-end React et un back-end Node.js avec une base de données MySQL.
@@ -102,15 +104,17 @@ Avant de commencer, assurez-vous d'avoir installé les logiciels suivants sur vo
 
 4.  **Configurer et lancer le Frontend**
 
-    ```bash
-    # Depuis la racine du projet, aller dans le dossier du frontend
-    cd ../frontend
+        ```bash
+        # Depuis la racine du projet, aller dans le dossier du frontend
+        cd ../frontend
 
-    # Installer les dépendances
-    npm install
+        # Installer les dépendances
+        npm install
 
-    # Lancer l'application React
-    npm start
-    ```
+        # Lancer l'application React
+        npm start
+        ```
 
-    L'application devrait s'ouvrir automatiquement sur `http://localhost:3000`.
+        L'application devrait s'ouvrir automatiquement sur `http://localhost:3000`.
+
+    =======
